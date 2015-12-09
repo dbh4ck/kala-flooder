@@ -1,0 +1,20 @@
+c:\users\sarjeet\documents\visual studio 2013\Projects\Nimbuzz_2015\Nimbuzz_2015\bin\Debug\Nimbuzz_2015.exe.config
+c:\users\sarjeet\documents\visual studio 2013\Projects\Nimbuzz_2015\Nimbuzz_2015\bin\Debug\Nimbuzz_2015.exe
+c:\users\sarjeet\documents\visual studio 2013\Projects\Nimbuzz_2015\Nimbuzz_2015\bin\Debug\Nimbuzz_2015.pdb
+c:\users\sarjeet\documents\visual studio 2013\Projects\Nimbuzz_2015\Nimbuzz_2015\obj\Debug\Nimbuzz_2015.csprojResolveAssemblyReference.cache
+c:\users\sarjeet\documents\visual studio 2013\Projects\Nimbuzz_2015\Nimbuzz_2015\obj\Debug\Nimbuzz_2015.Form1.resources
+c:\users\sarjeet\documents\visual studio 2013\Projects\Nimbuzz_2015\Nimbuzz_2015\obj\Debug\Nimbuzz_2015.Properties.Resources.resources
+c:\users\sarjeet\documents\visual studio 2013\Projects\Nimbuzz_2015\Nimbuzz_2015\obj\Debug\Nimbuzz_2015.csproj.GenerateResource.Cache
+c:\users\sarjeet\documents\visual studio 2013\Projects\Nimbuzz_2015\Nimbuzz_2015\obj\Debug\Nimbuzz_2015.exe
+c:\users\sarjeet\documents\visual studio 2013\Projects\Nimbuzz_2015\Nimbuzz_2015\obj\Debug\Nimbuzz_2015.pdb
+c:\users\sarjeet\documents\visual studio 2013\Projects\Nimbuzz_2015\Nimbuzz_2015\bin\Debug\agsXMPP.dll
+F:\desktop_backkuP\Nimbuzz_2015\Nimbuzz_2015\bin\Debug\Nimbuzz_2015.exe.config
+F:\desktop_backkuP\Nimbuzz_2015\Nimbuzz_2015\obj\Debug\Nimbuzz_2015.exe
+F:\desktop_backkuP\Nimbuzz_2015\Nimbuzz_2015\obj\Debug\Nimbuzz_2015.pdb
+F:\desktop_backkuP\Nimbuzz_2015\Nimbuzz_2015\obj\Debug\Nimbuzz_2015.csprojResolveAssemblyReference.cache
+F:\desktop_backkuP\Nimbuzz_2015\Nimbuzz_2015\obj\Debug\Nimbuzz_2015.Form1.resources
+F:\desktop_backkuP\Nimbuzz_2015\Nimbuzz_2015\obj\Debug\Nimbuzz_2015.Properties.Resources.resources
+F:\desktop_backkuP\Nimbuzz_2015\Nimbuzz_2015\obj\Debug\Nimbuzz_2015.csproj.GenerateResource.Cache
+F:\desktop_backkuP\Nimbuzz_2015\Nimbuzz_2015\bin\Debug\Nimbuzz_2015.exe
+F:\desktop_backkuP\Nimbuzz_2015\Nimbuzz_2015\bin\Debug\Nimbuzz_2015.pdb
+F:\desktop_backkuP\Nimbuzz_2015\Nimbuzz_2015\bin\Debug\agsXMPP.dll
